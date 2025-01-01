@@ -1,0 +1,2 @@
+!function(){"use strict";const e=e=>{var t=e.target;"A"===t.tagName&&"discount-cta"===t.parentElement.className&&window.dataLayer.push({event:"gtag_event",data:{event_name:"top_article_module",event_category:"outbound_link",event_label:t.href}})};var t;null!==(t=document.getElementById("infinite-container"))&&document.body.classList.contains("single")&&t.addEventListener("click",e)}();
+//# sourceMappingURL=discountModule.js.map

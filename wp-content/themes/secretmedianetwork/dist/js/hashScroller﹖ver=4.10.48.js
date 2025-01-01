@@ -1,0 +1,2 @@
+!function(){"use strict";(class{static init(){const t=window.location.hash;if(""===t)return;const n=document.querySelector(t);null!==n&&n.scrollIntoView()}}).init()}();
+//# sourceMappingURL=hashScroller.js.map

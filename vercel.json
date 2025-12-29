@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "redirects": [
       {
@@ -7,4 +8,15 @@
       }
     ]
   }
+=======
+{
+    "redirects": [
+      {
+        "source": "/pesto-the-penguin",
+        "destination": "/melbourne-tesla-self-driving-blind-dog-tragedy",
+        "permanent": true
+      }
+    ]
+  }
+>>>>>>> 3731ef735b4d28d9fe54c18571db221c25a87aa2
   
